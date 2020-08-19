@@ -1,0 +1,4 @@
+Xiaomi@DESKTOP-IMSED0O MINGW64 ~/week1 (master)
+$ touch ex2.txt
+Xiaomi@DESKTOP-IMSED0O MINGW64 ~/week1 (master)
+$ history > ~/week1/ex2.txt
