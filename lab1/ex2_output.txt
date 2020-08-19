@@ -1,0 +1,110 @@
+    1  cd
+    2  git --version
+    3  touch index.html
+    4  touch app.js
+    5  touch index.html
+    6  toych app.js
+    7  touch app.js
+    8  git init
+    9  git config --global user.name 'Mike'
+   10  git config --global user.ename 'Mike@gmail.com'
+   11  git add index.html
+   12  git status
+   13  git rm --cached index.html
+   14  git status
+   15  git add *.html
+   16  git status
+   17  git rm --cached index.html
+   18  git add .
+   19  git status
+   20  git status
+   21  git status
+   22  git add .
+   23  git status
+   24  git commit
+   25  git config --global user.name "Mike"
+   26  git config --global user.email "Mike@gmail.com"
+   27  got commit
+   28  git commit
+   29  git status
+   30  git commit
+   31  git status
+   32  git remote add origin https://github.com/MikhailMarch/test.git
+   33  git remote
+   34  git push -u origin master
+   35  g++
+   36  git init
+   37  git add .
+   38  git status
+   39  git add
+   40  git add app.js
+   41  git status
+   42  branch master
+   43  git master
+   44  status
+   45  git status
+   46  git add index.html
+   47  gis status
+   48  git status
+   49  G++
+   50  g++
+   51  ls
+   52  cd /mnt/c
+   53  cd /c
+   54  /utern
+   55  ls
+   56  /intern
+   57  cd intern
+   58  ls
+   59  ls > lest.txt
+   60  ls
+   61  list.txt
+   62  head -n 3 < lest.txt
+   63  head < lest.txt
+   64  sort 
+   65  cd /c/intern
+   66  ls
+   67  pwd
+   68  cd ..
+   69  cd /intern
+   70  cd /intern
+   71  l
+   72  ls
+   73  cd intern
+   74  rm lest.txt
+   75  ls
+   76  add list.txt
+   77  gedit list.txt
+   78  gedit
+   79  sudo gedit
+   80  mkdir ~/week1
+   81  ls
+   82  cd ~/week1
+   83  gcc
+   84  ls /usr/bin
+   85  ls -l /usr/bin/"gcc" > ~/week1/list.txt
+   86  ls
+   87  grep gcc
+   88  ls
+   89  ~/week1
+   90  cd ~/week1
+   91  ls /usr/bin
+   92  grep gcc
+   93  cd ~/week1
+   94  ls /usr/bin | grep gcc | sort -r > ~/week1/ex1.txt
+   95  git init
+   96  git remote https://github.com/MikhailMarch/OS.git
+   97  history > ~week1/ex2.txt
+   98  ~week1/ex2.txt
+   99  ls
+  100  ex2.txt
+  101  pwd
+  102  touch ex2.txt
+  103  ls
+  104  histiry > ~week1/ex2.txt
+  105  history > week2/ex2.txt
+  106  history > ~week1/ex2.txt
+  107  history
+  108  history > ~week1/ex2.txt
+  109  history > ~week1/ex2.txt
+  110  history > ~/week1/ex2.txt
