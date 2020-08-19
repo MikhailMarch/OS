@@ -1,0 +1,7 @@
+Xiaomi@DESKTOP-IMSED0O MINGW64 ~/week1 (master)
+$ echo -e "date\nsleep 3\ndate" > ~/week1/ex3.sh
+
+Xiaomi@DESKTOP-IMSED0O MINGW64 ~/week1 (master)
+$ sh ex3.sh
+19 авг 2020 г. 18:36:54
+19 авг 2020 г. 18:36:57
