@@ -1,0 +1,5 @@
+Xiaomi@DESKTOP-IMSED0O MINGW64 ~/week1 (master)
+$ echo -e "#include <stdio.h>\nint main(){\n  printf(\"Hello world\");\n  return 0;\n}" > ~/week1/main.c
+
+Xiaomi@DESKTOP-IMSED0O MINGW64 ~/week1 (master)
+$ gcc main.c -o ex4
