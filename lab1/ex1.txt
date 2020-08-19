@@ -1,1 +1,3 @@
+Xiaomi@DESKTOP-IMSED0O MINGW64 ~/week1 (master)
+$ ls /usr/bin | grep gcc | sort -r > ~/week1/ex1.txt
 
