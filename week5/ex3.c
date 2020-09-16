@@ -47,3 +47,4 @@ int main(){
     pthread_create(&tCons,0,Consume,0);
     while(1);
 }
+#After some time of running the code rase condition appears 
