@@ -1,0 +1,3 @@
+8 kb it is 2 in a power of 13 -> the offset is 13 
+16 bit virtual machine -> 16 - 13(offset) = 3 bits
+in 3 bits we can store 2^3 = 8 entries
