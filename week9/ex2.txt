@@ -1,0 +1,6 @@
+when we have more references to the same page in the input file the hit/miss
+rete will increase, but when referenced pages are different the retion will 
+decrease
+In the 1st execise I tryied the programm with different numger of page frames, when the
+number was lagreg -> hit/miss rate was bigger, as the structure stored more
+pages and probability of hit with incoming reference was bigger
