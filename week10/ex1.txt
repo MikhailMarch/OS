@@ -1,0 +1,7 @@
+total 0
+ 1125899908305497 drwxrwxrwx 1 root root 4096 Oct 20 14:54 .
+ 1688849860849085 drwxrwxrwx 1 root root 4096 Oct 20 14:30 ..
+14073748835621951 -rwxrwxrwx 3 root root    5 Oct 20 14:51 _ex1.txt
+14073748835621951 -rwxrwxrwx 3 root root    5 Oct 20 14:51 _ex1_1.txt
+14073748835621951 -rwxrwxrwx 3 root root    5 Oct 20 14:51 _ex1_2.txt
+12384898975445033 -rwxrwxrwx 1 root root    0 Oct 20 14:54 ex1.txt

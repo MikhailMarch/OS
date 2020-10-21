@@ -1,0 +1,24 @@
+-rwxrwxrwx 1 root root 0 Oct 20 15:25 _ex3.txt
+-rw-rw-rw- 1 root root 0 Oct 20 15:25 _ex3.txt
+-rwxrw-rwx 1 root root 0 Oct 20 15:25 _ex3.txt
+-rwxrwxrwx 1 root root 0 Oct 20 15:25 _ex3.txt
+
+for ex4.txt each digit in 660 correspond to some value in the permission
+for 660:
+6 = 110 = rw- for u (user)
+6 = 110 = rw- for g (group)
+0 = 000 = --- for o (others)
+so user and group have permission to read and write
+
+for 775:
+7 = 111 = rwx for u (user)
+7 = 111 = rwx for g (group)
+5 = 101 = r-x for o (others)
+so user and group have premission to read, write and execute, while others
+do not have a permission for writing
+
+for 777:
+7 = 111 = rwx for u (user)
+7 = 111 = rwx for g (group)
+7 = 111 = rwx for o (others)
+it means that all have permission to read, write and execute
