@@ -1,0 +1,21 @@
+output of the first program:
+Hello
+Hello
+output of the second program:
+Hello
+
+
+Behaviour of programs:
+for the first programm:
+1)Program puts "Hello" in the buffer
+2)Process forks
+3)parent and child process have the same buffer
+4)Process flushes buffer and outputs "Hello"
+5)Another process flushes the buffer and outputs "Hello"
+
+for the second program:
+1)Programm puts "Hello\n" in the buffer
+2)then it flushes the buffer couse of "\n"
+3)process forks
+4)first ptocess outputs "\n"
+5)second ptocess outputs "\n"
