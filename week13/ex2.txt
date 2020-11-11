@@ -1,0 +1,6 @@
+Detect and recover is useful when we have all information about proccesses to
+recover from the deadlock
+Prevention is useful in operating systems where we have enough time to check the 
+possible deadlock
+Avoidance is useful when we can avoid one one the possible conditions 
+for deadlock creation, e.g make processes preemptive
